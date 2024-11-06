@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandGame", "SandGame.csproj", "{831BF965-AA04-4DC8-A268-9AB11DA69B57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE2A12F7-B260-41ED-85DD-63673D21BAC8}"
+	ProjectSection(SolutionItems) = preProject
+		Element.cs = Element.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831BF965-AA04-4DC8-A268-9AB11DA69B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831BF965-AA04-4DC8-A268-9AB11DA69B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831BF965-AA04-4DC8-A268-9AB11DA69B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831BF965-AA04-4DC8-A268-9AB11DA69B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F90EC36-6500-41F2-97F6-0275FDB6F5EC}
+	EndGlobalSection
+EndGlobal
